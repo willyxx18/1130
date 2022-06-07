@@ -1,0 +1,40 @@
+*{
+    margin: 10px;
+    padding: 10px;
+}
+body
+{
+    background-color:aliceblue;
+    color: royalblue;
+    font-family: Verdana;
+}
+header
+{
+    height: 100px;
+    background-color: aqua;
+}
+nav
+{
+    height: 50px;
+    background-color: blue;
+}
+section
+{
+    background-color: blueviolet;
+    height: 300px;
+    width: 65%;
+    float: left;
+}
+aside
+{
+    background-color: cornsilk;
+    height: 300px;
+    width: 25%;
+    float: right;
+}
+footer
+{
+    background-color: brown;
+    height: 370px;
+    float: bottom;
+}
